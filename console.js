@@ -8,3 +8,4 @@ function main(){
 }
 console.log("Christ Deemed To be University ")
 
+console.log("Christ Deemed To Be University")
