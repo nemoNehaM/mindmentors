@@ -1,13 +1,13 @@
 # mindmentors
-The following file was created as part of ONE API Hackathon 2023
-Christ Deemed To Be University
+The following file was created as part of ONE API Hackathon 2023-Christ Deemed To Be University
 
 # Enhancing Classroom Dynamics with Facial Emotion Recognition
 
 # Team Members
-Abith K Sunil - 22122002
-Prakruthi R Rai - 22122035
-Neha Elizabeth Mathew - 22122133
+Abith K Sunil - 22122002  
+Divya Mary Biji - 22122020  
+Prakruthi R Rai - 22122035  
+Neha Elizabeth Mathew - 22122133  
 Surya Prakash V - 22122156
 
 # Team Name
@@ -17,12 +17,23 @@ MindMentors
 
 The lack of real-time recognition and response to students' emotional states in classrooms often hinders personalized learning, engagement, and well-being. Therefore, we need an empathetic, privacy-respecting solution that can analyze students' emotional cues for a more supportive learning environment. This study focuses on bridging the gap between educators' understanding of their learners and their social well-being in the classroom environment.
 
+# Emotions:
+Angry 😠  
+Disgust 😧  
+Fear 😨  
+Happy 😃  
+Sad 😞  
+Surprise 😮  
+Neutral 😐  
+
+Dataset link - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+
 # What We Offer
 
-Real-time detection and interpretation of students' facial expressions.
-Valuable insights into emotional engagement, comprehension levels, and overall well-being.
-Enabled and tailored teaching strategies fostering an empathetic and inclusive learning environment.
-Comprehensive understanding of classroom dynamics and educational insights.
+Real-time detection and interpretation of students' facial expressions.  
+Valuable insights into emotional engagement, comprehension levels, and overall well-being.  
+Enabled and tailored teaching strategies fostering an empathetic and inclusive learning environment.  
+Comprehensive understanding of classroom dynamics and educational insights.  
 Continuous updates and timely feedback to learners.
 
 # A Fresh Approach
@@ -31,28 +42,28 @@ Instead of solely focusing on recognizing facial emotions, we take facial emotio
 
 # Features
 
-Emotion Detection
-Emotion Identification
-Personalization - Student-Teacher Approach
-Engagement Tracking
-Mental Health Monitoring and Inclusivity
-Real-time Feedback
-Data-Driven Insights
-Collaborative Learning
+Emotion Detection  
+Emotion Identification  
+Personalization - Student-Teacher Approach  
+Engagement Tracking  
+Mental Health Monitoring and Inclusivity  
+Real-time Feedback  
+Data-Driven Insights  
+Collaborative Learning  
 Room for Action Research
 
 # List of API Toolkits/Libraries
 
-oneDNN
-oneMKL
-oneDAL
+oneDNN  
+oneMKL  
+oneDAL  
 OpenVINO
 # Technologies Used
-Pandas
-Numpy
-Tensorflow
-OpenCV
-Keras
+Pandas  
+Numpy  
+Tensorflow  
+OpenCV  
+Keras  
 TensorFlow Hub
 # Architecture Diagram
 <img width="650" alt="Screenshot 2023-08-11 103415" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/804bb340-c834-48a8-bebc-4169329d9435">
