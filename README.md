@@ -94,6 +94,12 @@ https://github.com/nemoNehaM/mindmentors/assets/118044299/e7ee6a6b-c763-41c0-92c
 
 The primary expense for implementing the proposed solution will be the AI cameras to be installed in the classrooms. The cost of basic AI-enabled cameras in India typically ranges from 10,000 to 30,000 INR per camera. However, for a more extensive setup with advanced features and higher capabilities, the cost per camera can be in the range of 50,000 to 1,00,000 INR or more.
 
+# Future Scope
+
+The current project is the prototype of the more significant project that can be applied in the real-time classroom. The project aims to implement a classroom web camera to monitor the learners' social behavior and learning patterns.
+The project also aims at providing with zooming facility the understand any individual.
+The real-time web application would work by slightly modifying the current prototype and aiming to capture the entire classroom. 
+From the web applications end, the data can also be analyzed using a web camera.
 
 # Instructions To Run The Code:
 
