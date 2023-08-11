@@ -75,9 +75,9 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 <img width="630" alt="Screenshot 2023-08-11 131031" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/adf7a8cb-95e0-49cc-9db0-3030c261cd3a">  
 • The training gave an accuracy of 74% and a test accuracy of 64%. It seems excellent. So, I save the model and the detection I got from the live video was excellent.
 
-• One drawback of the system is the some Disgust faces are showing Neutral.Because less no. of disgust faces are given to train .This may be the reason.
+• One drawback of the system is the some Disgust faces are showing Neutral. Because less no. of that gust faces are given to train. This may be the reason.
 
-• I thought it was a good score should improve the score.
+• I thought it was a good score and should improve the score.
 
 • Thus I decided that I will deploy the model.  
 # Performance Metrix  
