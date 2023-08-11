@@ -1,7 +1,7 @@
 # Enhancing Classroom Dynamics with Facial Emotion Recognition
 The following file was created as part of ONE API Hackathon 2023-Christ Deemed To Be University
 # Team Name
-MindMentors
+### MindMentors
 
 # Team Members
 Abith K Sunil - 22122002  
