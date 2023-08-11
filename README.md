@@ -83,6 +83,11 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 • I thought it was a good score should improve the score.
 
 • Thus I decided that I will deploy the model.  
+# Performance Metrix  
+
+# Confusion Matrix (Normalized)  
+
+
 # Estimated Cost
 
 The primary expense for implementing the proposed solution will be the AI cameras to be installed in the classrooms. The cost of basic AI-enabled cameras in India typically ranges from 10,000 to 30,000 INR per camera. However, for a more extensive setup with advanced features and higher capabilities, the cost per camera can be in the range of 50,000 to 1,00,000 INR or more.
