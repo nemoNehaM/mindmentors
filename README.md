@@ -75,18 +75,14 @@ Transfer learning (TL) is a research problem in machine learning (ML) that focus
 We have trained the model with ResNet50 and got the training accuracy of 43% and validation accuracy of 41% which is not acceptable because model is underfitted.This error is may be because the model was trained on rgb images and the data set contains grascale images.  
 ### 2) Using Convolutional Neural Network  
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics. The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.  
+<img width="630" alt="Screenshot 2023-08-11 131031" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/adf7a8cb-95e0-49cc-9db0-3030c261cd3a">  
 • The training gave the accuracy of 74% and test accuracy of 64%. It seems excellent. So, I save the model and the detection i got from live video was excellent.
 
 • One drawback of the system is the some Disgust faces are showing Neutral .Because less no. of disgust faces are given to train .This may be the reason.
 
 • I thought it was a good score should improve the score.
 
-• Thus I decided that I will deploy the model.
-
-
-
-
-
+• Thus I decided that I will deploy the model.  
 # Estimated Cost
 
 The primary expense for implementing the proposed solution will be the AI cameras to be installed in the classrooms. The cost of basic AI-enabled cameras in India typically ranges from 10,000 to 30,000 INR per camera. However, for a more extensive setup with advanced features and higher capabilities, the cost per camera can be in the range of 50,000 to 1,00,000 INR or more.
