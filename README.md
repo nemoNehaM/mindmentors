@@ -1,7 +1,7 @@
-# mindmentors
-The following file was created as part of ONE API Hackathon 2023-Christ Deemed To Be University
-
 # Enhancing Classroom Dynamics with Facial Emotion Recognition
+The following file was created as part of ONE API Hackathon 2023-Christ Deemed To Be University
+# Team Name
+MindMentors
 
 # Team Members
 Abith K Sunil - 22122002  
@@ -9,9 +9,6 @@ Divya Mary Biji - 22122020
 Prakruthi R Rai - 22122035  
 Neha Elizabeth Mathew - 22122133  
 Surya Prakash V - 22122156
-
-# Team Name
-MindMentors
 
 # Problem Statement
 
@@ -87,6 +84,10 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 <img width="610" alt="Screenshot 2023-08-11 131103" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/f5c938b8-a91f-426b-853f-4cfba3432f1e">
 
 # Confusion Matrix (Normalized)  
+![155871779-e488ca1b-dca9-461c-9970-d29799ffffe5](https://github.com/nemoNehaM/mindmentors/assets/118044299/40a2e155-4ddb-4a27-8e73-b344df61decf)  
+
+# Realtime demo video   
+
 
 
 # Estimated Cost
