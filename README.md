@@ -71,6 +71,20 @@ TensorFlow Hub
 # Model Creation  
 ### 1) Using Transfer Learning(ResNet50)  
 Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks. Reusing or transferring information from previously learned tasks to learning of new tasks has the potential to significantly improve the sample efficiency of a Data Scientist.  
+<img width="635" alt="Screenshot 2023-08-11 131002" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/04d9b03f-19ed-4a2e-8c8d-963031ed84f6">  
+We have trained the model with ResNet50 and got the training accuracy of 43% and validation accuracy of 41% which is not acceptable because model is underfitted.This error is may be because the model was trained on rgb images and the data set contains grascale images.  
+### 2) Using Convolutional Neural Network  
+A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics. The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.  
+• The training gave the accuracy of 74% and test accuracy of 64%. It seems excellent. So, I save the model and the detection i got from live video was excellent.
+
+• One drawback of the system is the some Disgust faces are showing Neutral .Because less no. of disgust faces are given to train .This may be the reason.
+
+• I thought it was a good score should improve the score.
+
+• Thus I decided that I will deploy the model.
+
+
+
 
 
 # Estimated Cost
