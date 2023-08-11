@@ -96,10 +96,13 @@ The primary expense for implementing the proposed solution will be the AI camera
 
 # Future Scope
 
-The current project is the prototype of the more significant project that can be applied in the real-time classroom. The project aims to implement a classroom web camera to monitor the learners' social behavior and learning patterns.
-The project also aims at providing with zooming facility the understand any individual.
+• The current project is the prototype of the more significant project that can be applied in the real-time classroom. The project aims to implement a classroom web camera to monitor the learners' social behavior and learning patterns.  
+The project also aims at providing with zooming facility the understand any individual.  
 The real-time web application would work by slightly modifying the current prototype and aiming to capture the entire classroom. 
-From the web applications end, the data can also be analyzed using a web camera.
+From the web applications end, the data can also be analyzed using a web camera. Continuously improving the accuracy and granularity of emotion recognition algorithms can enhance the system's effectiveness.  
+• Adaptive Learning Paths can be implemented, the use the emotional insights gained to tailor learning paths for individual students. Adaptive learning platforms could dynamically adjust the content difficulty, pacing, and teaching methods based on emotional engagement and comprehension levels.  
+• We can also have Multimodal Analysis by combining facial emotion recognition with other modalities, like voice sentiment analysis and body language interpretation, to create a more holistic understanding of students' emotions and engagement.
+
 
 # Instructions To Run The Code:
 
