@@ -68,6 +68,11 @@ TensorFlow Hub
 # Architecture Diagram
 <img width="650" alt="Screenshot 2023-08-11 103415" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/804bb340-c834-48a8-bebc-4169329d9435">
 
+# Model Creation  
+### 1) Using Transfer Learning(ResNet50)  
+Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks. Reusing or transferring information from previously learned tasks to learning of new tasks has the potential to significantly improve the sample efficiency of a Data Scientist.  
+
+
 # Estimated Cost
 
 The primary expense for implementing the proposed solution will be the AI cameras to be installed in the classrooms. The cost of basic AI-enabled cameras in India typically ranges from 10,000 to 30,000 INR per camera. However, for a more extensive setup with advanced features and higher capabilities, the cost per camera can be in the range of 50,000 to 1,00,000 INR or more.
