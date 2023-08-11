@@ -87,7 +87,7 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 ![155871779-e488ca1b-dca9-461c-9970-d29799ffffe5](https://github.com/nemoNehaM/mindmentors/assets/118044299/40a2e155-4ddb-4a27-8e73-b344df61decf)  
 
 # Realtime demo video   
-
+https://github.com/nemoNehaM/mindmentors/assets/118044299/e7ee6a6b-c763-41c0-92c5-90b8bba187ac
 
 
 # Estimated Cost
