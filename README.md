@@ -55,6 +55,7 @@ OpenCV
 Keras
 TensorFlow Hub
 # Architecture Diagram
+<img width="650" alt="Screenshot 2023-08-11 103415" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/804bb340-c834-48a8-bebc-4169329d9435">
 
 # Estimated Cost
 
