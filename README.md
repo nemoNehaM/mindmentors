@@ -84,6 +84,7 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 
 • Thus I decided that I will deploy the model.  
 # Performance Metrix  
+<img width="610" alt="Screenshot 2023-08-11 131103" src="https://github.com/nemoNehaM/mindmentors/assets/118044299/f5c938b8-a91f-426b-853f-4cfba3432f1e">
 
 # Confusion Matrix (Normalized)  
 
