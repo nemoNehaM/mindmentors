@@ -94,4 +94,13 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 
 The primary expense for implementing the proposed solution will be the AI cameras to be installed in the classrooms. The cost of basic AI-enabled cameras in India typically ranges from 10,000 to 30,000 INR per camera. However, for a more extensive setup with advanced features and higher capabilities, the cost per camera can be in the range of 50,000 to 1,00,000 INR or more.
 
+# How to Run the code:
+Download the entire folder as Zip file
+Move the .ipynb_checkpoints into Facial-Emotion-Recognition folder
+Run the folder using ONE API's Jupyter Notebook
+Select Tensor Flow toolkit to run the code.
+
+# Happy Learnings😃 
+
+
 
