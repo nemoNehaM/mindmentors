@@ -100,7 +100,7 @@ Move the .ipynb_checkpoints into Facial-Emotion-Recognition folder
 Run the folder using ONE API's Jupyter Notebook
 Select Tensor Flow toolkit to run the code.
 
-# Happy Learnings😃 
+#Happy Learnings😃 
 
 
 
