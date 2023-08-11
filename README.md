@@ -26,7 +26,7 @@ Sad 😞
 Surprise 😮  
 Neutral 😐  
 
-Dataset link - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+Dataset link - https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset
 
 # What We Offer
 
